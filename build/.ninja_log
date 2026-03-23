@@ -1,0 +1,10 @@
+# ninja log v6
+8	163	7959619145784417	build.ninja	61e834774e4352ca
+8	163	7959619145714020	C:/Users/demki/Desktop/Cpp.mode1/build/cmake_install.cmake	61e834774e4352ca
+5	443	7945019917839241	CMakeFiles/lesson4.dir/main.cpp.obj	251f42ac99a52573
+5	220	7944972032769561	lesson4.dll	cd94c919100f1173
+7	465	7956986498477598	CMakeFiles/CarProject.dir/main.cpp.obj	f6becf1a29b3700c
+15	469	7956986498571432	CMakeFiles/CarProject.dir/Car.cpp.obj	289441438190dfd2
+444	665	7945019922216876	lesson4.exe	c55d11e31063836b
+23	473	7956986498638835	CMakeFiles/CarProject.dir/Lorry.cpp.obj	d1fd2521bf5e0f11
+473	955	7956986503150893	CarProject.exe	a1e84d5569cef159
