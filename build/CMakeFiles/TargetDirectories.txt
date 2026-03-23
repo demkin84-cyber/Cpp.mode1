@@ -1,3 +1,0 @@
-C:/Users/demki/Desktop/Cpp.mode1/build/CMakeFiles/CarProject.dir
-C:/Users/demki/Desktop/Cpp.mode1/build/CMakeFiles/edit_cache.dir
-C:/Users/demki/Desktop/Cpp.mode1/build/CMakeFiles/rebuild_cache.dir
