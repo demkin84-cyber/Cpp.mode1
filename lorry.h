@@ -1,7 +1,7 @@
 #ifndef LORRY_H
 #define LORRY_H
 
-#include "Car.h"
+#include "car.h"
 
 class Lorry : public Car {
 private:
