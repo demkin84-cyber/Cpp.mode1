@@ -1,6 +1,6 @@
 #include <iostream>
-#include "Car.h"
-#include "Lorry.h"
+#include "car.h"
+#include "lorry.h"
 
 using namespace std;
 

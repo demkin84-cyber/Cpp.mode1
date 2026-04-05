@@ -7,5 +7,5 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(CarProject
         main.cpp
         car.cpp
-        Lorry.cpp
+        lorry.cpp
 )
